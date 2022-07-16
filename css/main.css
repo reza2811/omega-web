@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@font-face {
+    font-family: "Vazir";
+    src: url("../fonts/Vazir.eot");
+    src: url("../fonts/Vazir.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Vazir.woff2") format("woff2"),
+    url("../fonts/Vazir.woff") format("woff"),
+    url("../fonts/Vazir.ttf") format("truetype");
+}
+body{
+    font-family: "Vazir" !important;
+}
+  .ml3 {
+    font-weight: 900;
+    font-size: 3.5em;
+    color: #ffa502;
+  }
